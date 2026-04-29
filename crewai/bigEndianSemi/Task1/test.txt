@@ -1,0 +1,18 @@
+Hi,This is a test file
+Hey there, Future BigEndian Engineer!
+
+ 
+
+Thanks for your interest in the Software Engineer role at BigEndian Semiconductors! We're excited to see what you can bring to the table. To get a better sense of your coding chops, we'd love for you to tackle one of the following coding challenges. Think of it as a mini-mission to showcase your skills in real-time file transfer and verification.
+
+ 
+
+Your Mission (Should You Choose to Accept It):
+
+Pick one of the following challenges and upload your C++/C /Python working code to GitHub by April  30th , 2026. Just send us the GitHub repository link, and we'll take it from there.
+
+ 
+
+Challenge 1: The Classic File Transfer (Single Client)
+
+Challenge 2: The Multi-Client Mayhem (Advanced Challenge)

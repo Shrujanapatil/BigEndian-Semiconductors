@@ -1,0 +1,10 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Vestibulum vulputate, sapien at convallis cursus, velit nulla luctus nisi,
+nec fermentum lorem quam sed nisl.
+Suspendisse potenti.
+Curabitur non orci nec neque facilisis tincidunt.
+Integer sit amet magna ut erat malesuada venenatis.
+Donec ut libero at quam interdum feugiat.
+Praesent ut nisi ac augue feugiat tincidunt.
+Mauris sit amet purus ut lorem malesuada aliquet.
+End of test file.
